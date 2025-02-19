@@ -3,27 +3,36 @@ body {
     margin: 0;
     padding: 0;
     background-color: #0d1117;
-    background-image: url('https://github.com/driversline/bspwm/raw/main/wallpapers/black.png');
-    background-size: cover;
-    background-position: center;
 }
 
 h1 {
     text-align: center;
     color: #c9d1d9;
-    font-size: 36px;
-    margin: 20px 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-size: 24px;
+    margin: 0 0 30px;
 }
 
 .container {
     position: relative;
-    max-width: 800px;
-    margin: 20px auto;
-    background: rgba(22, 27, 34, 0.9);
-    padding: 40px;
+    max-width: 100%;
+    margin: 20px;
+    background: #161b22;
+    padding: 70px;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: none;
+    max-height: none;
+}
+
+.container::before {
+    content: '';
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    right: 35px;
+    bottom: 35px;
+    border: 1px solid #373f4c;
+    border-radius: 6px;
+    pointer-events: none;
 }
 
 .button {
@@ -37,12 +46,26 @@ h1 {
     cursor: pointer;
     margin-bottom: 12px;
     font-size: 20px;
-    transition: border-color 0.3s, background-color 0.3s;
+    transition: border-color 0.3s;
 }
 
 .button:hover {
     border-color: #79c0ff;
-    background-color: #1b2434;
+}
+
+.link-button {
+    display: block;
+    background-color: #315bef;
+    color: #dddddd;
+    border: 2px solid #3480e2;
+    text-align: center;
+    width: calc(100% - 24px);
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 20px;
+    transition: background-color 0.3s, border-color 0.3s;
+    margin: 20px 0 -10px;
+    text-decoration: none;
 }
 
 .content {
@@ -61,19 +84,4 @@ h1 {
 .active {
     max-height: 10000px;
     padding: 10px;
-}
-
-.link-button {
-    display: block;
-    background-color: #315bef;
-    color: #dddddd;
-    border: 2px solid #3480e2;
-    text-align: center;
-    width: calc(100% - 24px);
-    border-radius: 4px;
-    padding: 12px;
-    font-size: 20px;
-    transition: background-color 0.3s, border-color 0.3s;
-    margin: 20px 0 -10px;
-    text-decoration: none;
 }
