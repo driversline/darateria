@@ -1,5 +1,5 @@
 ## 👋 Stats
-![Repository Updated](https://img.shields.io/badge/Repository-2025.04.02-green?style=for-the-badge) ![Rules Updated](https://img.shields.io/badge/Rules-2024.10.08-green?style=for-the-badge)
+![Repository Updated](https://img.shields.io/badge/Repository-2025.04.04-green?style=for-the-badge) [![Rules Updated](https://img.shields.io/badge/Rules-2024.10.08-green?style=for-the-badge)](https://darateria.com/rules)
 
 ## 🤖 Bots
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/darateria_bot)&nbsp;&nbsp;
