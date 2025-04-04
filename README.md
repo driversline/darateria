@@ -3,7 +3,7 @@
 ## 🤖 Bots
 
 <p align="left">
-  <a href="https://t.me/darateria_bot" style="margin-right: 15px;">
+  <a href="https://t.me/darateria_bot" style="margin-right: 50px;">
     <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
   </a>
   <a href="https://discord.com/invite/QqY5GdUTXw">
