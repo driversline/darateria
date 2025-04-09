@@ -1,3 +1,5 @@
-[Дискорд-статистика](https://driversline.github.io/darateria/discord-server/html/)
+[Дискорд-статистика-Shedevroland](https://driversline.github.io/darateria/discord-server/Shedevroland/html/)
+
+[Дискорд-статистика-Darateria](https://driversline.github.io/darateria/discord-server/Darateria/html/)
 
 [Правила](https://driversline.github.io/darateria/html/)
