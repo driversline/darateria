@@ -2,4 +2,4 @@
 
 [Дискорд-статистика-Darateria](https://driversline.github.io/darateria/discord-server/Darateria/html/)
 
-[Правила](https://driversline.github.io/darateria/html/)
+[Правила-Darateria](https://driversline.github.io/darateria/rules/html/)
