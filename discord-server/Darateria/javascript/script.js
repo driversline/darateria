@@ -1,4 +1,4 @@
-const SERVER_ID = '1253809878779166802';
+const SERVER_ID = '973993789280620585';
         
 function countOnline(members) {
     return members.filter(m => m.status && m.status !== 'offline').length;
