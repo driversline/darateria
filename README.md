@@ -1,18 +1,5 @@
-<table>
-  <tr>
-    <td>
-      [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-FFFFFF?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/darateria_bot)
-    </td>
-    <td>
-      [![Тест 1](https://img.shields.io/badge/Новая_1-000000?style=for-the-badge)](https://example.com)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      [![Discord Server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wtK4Bg6Gwb)
-    </td>
-    <td>
-      [![Тест 2](https://img.shields.io/badge/Новая_2-FF0000?style=for-the-badge)](https://example.com)
-    </td>
-  </tr>
-</table>
+| | |
+|-|-|
+| [![Darateria](https://img.shields.io/badge/Darateria-000000?style=for-the-badge)](LINK3) | [![Кнопка 6](https://img.shields.io/badge/Кнопка_6-FFA500?style=for-the-badge)](TODO) |
+| [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/darateria_bot) | [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge)](LINK4) |
+| [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wtK4Bg6Gwb) | [![Discord](https://img.shields.io/badge/Discord-00AA00?style=for-the-badge)](LINK5) |
